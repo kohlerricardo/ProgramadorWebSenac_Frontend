@@ -45,5 +45,7 @@ Neste repositório serão colocados os arquivos contendo:
     - https://developer.mozilla.org/en-US/docs/Web/CSS
 - Referência Javascript
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Ferramenta para verificação de contraste de cores
+    - [Color Contrast Analyzer](https://color.adobe.com/br/create/color-contrast-analyzer)
     
 

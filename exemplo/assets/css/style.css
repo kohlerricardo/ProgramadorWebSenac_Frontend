@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    background-color: rgb(224, 228, 176);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+p{
+    padding: 4px 6px 8px 10px;
+    font-size: 0.75rem;    
+    border:2px violet solid;
+}
+img{
+    width: 350px;
+    height: auto;
+}
+@media screen and (max-width:768px){
+html {
+    background-color: rgb(186, 240, 226);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+img{
+    width: 120px;
+    height: auto;
+}
+}
