@@ -113,7 +113,7 @@ O Gestor é a peça central do sistema — é ele quem aprova ou nega os pedidos
 
 ### O que construir
 
-### 4.1 - **Cabeçalho da seção:**
+- **Cabeçalho da seção:**
 **Linha de informações**: Linha na horizontal com:
 
 - Título "Solicitações Pendentes" (cresce para ocupar o espaço)
